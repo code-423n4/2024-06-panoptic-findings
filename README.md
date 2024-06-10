@@ -1,17 +1,3 @@
-<!-- 
-# HMs
-- High/Medium-risk - Updating list
-(../../issues?q=is%3Aopen+is%3Aissue+label%3A%222+(Med+Risk)%22%2C%223+(High+Risk)%22+-label%3A%22unsatisfactory%22%2C%22insufficient+quality+report%22%2C%22sponsor+acknowledged%22%2C%22sponsor+confirmed%22%2C%22sponsor+disputed%22+)
-- High/Medium-risk - Static list
-(../../issues?q=is%3Aopen+is%3Aissue+label%3A%222+(Med+Risk)%22%2C%223+(High+Risk)%22+-label%3A%22unsatisfactory%22%2C%22insufficient+quality+report%22%2C%22sponsor+acknowledged%22%2C%22sponsor+confirmed%22%2C%22sponsor+disputed%22+)
-
-# Reports
-- Reports - Updating list
-(../../issues?q=is%3Aopen+is%3Aissue+-label%3A"sponsor+acknowledged"%2C"sponsor+confirmed"%2C"sponsor+disputed"+label%3A"QA+(Quality+Assurance)"%2C"G+(Gas+Optimization)"%2C"analysis-advanced"+label%3A"grade-a"%2C"selected+for+report"%2C"high+quality+report")
-- Reports - Static list
-(../../issues?q=is%3Aopen+is%3Aissue+label%3A"2+(Med+Risk)"%2C"3+(High+Risk)"+-label%3A"unsatisfactory"%2C"insufficient+quality+report")
--->
-
 # Panoptic Audit
 
 Audit findings are submitted to this repo.
@@ -26,11 +12,10 @@ Unless otherwise discussed, this repo will be made public after audit completion
 
 # Review phase
 
-Sponsors have three critical tasks in the audit process: Reviewing the two lists of curated issues, and once you have mitigated your findings, sharing those mitigations. 
+Sponsors have two critical tasks in the audit process: Reviewing the list of curated issues, and once you have mitigated your findings, sharing those mitigations. 
 
 1. [Respond to curated High- and Medium-risk submissions ↓](#1-respond-to-curated-high--and-medium-risk-submissions)
-2. [Respond to curated Low-risk submissions and Gas optimizations ↓](#2-respond-to-curated-low-risk-submissions-and-gas-optimizations)
-3. [Share your mitigation of findings (optional) ↓](#3-share-your-mitigation-of-findings-optional)
+2. [Share your mitigation of findings (optional) ↓](#2-share-your-mitigation-of-findings-optional)
 
 Note: It’s important to be sure to **only review issues from the curated lists.** There are two lists of curated issues to review, which filter out unsatisfactory issues that don't require your attention.
 
@@ -42,7 +27,7 @@ Note: It’s important to be sure to **only review issues from the curated lists
 
 Wardens submit issues without seeing each other's submissions, so keep in mind that there will always be findings that are duplicates. For all issues labeled `3 (High Risk)` or `2 (Medium Risk)`, these have been pre-sorted for you so that there is only one primary issue open per unique finding. All duplicates have been labeled `duplicate`, linked to a primary issue, and closed.
 
-### QA reports and Gas reports
+### QA reports and Gas reports, if applicable
 
 Any warden submissions in these two categories are submitted as bulk listings of issues and recommendations:
 
@@ -78,24 +63,13 @@ Judges have the ultimate discretion in determining validity and severity of issu
 
 <hr>
 
-## 2. Respond to curated Low-risk submissions and Gas optimizations
-
-### [Low-risk submissions and Gas optimizations for review →](../../issues?q=is%3Aopen+is%3Aissue+-label%3A"sponsor+acknowledged"%2C"sponsor+confirmed"%2C"sponsor+disputed"+label%3A"QA+(Quality+Assurance)"%2C"G+(Gas+Optimization)"%2C"analysis-advanced"+sort%3Acreated-asc)
-
-<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+(Quality+Assurance)"%2C"G+(Gas+Optimization)"%2C"analysis-advanced"+sort%3Acreated-asc)</sup>
-
-- Leave a comment for the judge on any reports you consider to be particularly high quality.
-- Add the `sponsor disputed` label to any reports that you think should be completely disregarded by the judge, i.e. the report contains no valid findings at all.
-
-<hr>
-
-## Once Step 1 and 2 are complete
+## Once Step 1 is complete
 
 When you have finished labeling and responding to findings, drop the C4 team a note in your private Discord backroom channel and let us know you've completed the sponsor review process. At this point, we will pass the repo over to the judge to review your feedback while you work on mitigations.
 
 <hr>
 
-## 3. Share your mitigation of findings (Optional)
+## 2. Share your mitigation of findings (Optional)
 
 Once you have confirmed the findings you intend to mitigate, you will want to address them before tha audit report is made public. Linking your mitigation PRs to your audit findings enables us to include them in your C4 audit report. 
 
