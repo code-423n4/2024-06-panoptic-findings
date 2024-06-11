@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "After EIP-3074 owners would be unable to withdraw due to the `msg.sender != owner` check ",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/27",
+  "originalIssueId": 31,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/31"
+}
