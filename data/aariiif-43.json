@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "aariiif",
+  "risk": "2",
+  "title": "Integer Overflow in Metadata Access Logic ([bytes32(\"descriptions\")])",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/43",
+  "originalIssueId": 13,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/13"
+}
