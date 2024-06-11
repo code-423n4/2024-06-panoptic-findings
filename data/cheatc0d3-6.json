@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Incorrect Validation for tickLimitLow and tickLimitHigh Causing Potential Slippage Check Failures",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/6",
+  "originalIssueId": 52,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/52"
+}
