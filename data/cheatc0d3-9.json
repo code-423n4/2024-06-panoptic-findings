@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Inaccurate Collateral Calculation in _computeSpread Function Due to Insufficient Zero Difference Handling",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/9",
+  "originalIssueId": 49,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/49"
+}
