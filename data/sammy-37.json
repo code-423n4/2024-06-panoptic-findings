@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "sammy",
+  "risk": "3",
+  "title": "Pool deployment can be DoS'd through price manipulation",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/37",
+  "originalIssueId": 19,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/19"
+}
