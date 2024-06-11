@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "debo",
+  "risk": "2",
+  "title": "The `startToken` function in the `CollateralTracker` contract is missing a critical modifier to ensure that only the associated Panoptic pool can call it",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/36",
+  "originalIssueId": 20,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/20"
+}
