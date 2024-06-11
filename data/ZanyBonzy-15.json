@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "The `tokenURI` function doesn't verify if a token ID is valid before returning its metadata. This means it could return data for a fake or non existent NFT.",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/15",
+  "originalIssueId": 43,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/43"
+}
