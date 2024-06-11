@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "JSON injection and xss through ERC20 symbol when generating `tokenUri` ",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/4",
+  "originalIssueId": 54,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/54"
+}
