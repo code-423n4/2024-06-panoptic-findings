@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Lack of Validation for positionIdList in mintOptions Function Can Lead to Errors and Potential Exploits",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/7",
+  "originalIssueId": 51,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/51"
+}
