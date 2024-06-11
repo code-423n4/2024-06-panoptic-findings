@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "0xStalin",
+  "risk": "2",
+  "title": "safeERC20Symbol() function will always revert when interating with tokens that returns bytes32 as Symbol",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/17",
+  "originalIssueId": 41,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/41"
+}
