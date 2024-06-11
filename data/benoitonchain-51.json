@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "benoitonchain",
+  "risk": "3",
+  "title": "Delegatecal Loop : contracts/base/Multicall.sol#L12-L36",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/51",
+  "originalIssueId": 2,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/2"
+}
