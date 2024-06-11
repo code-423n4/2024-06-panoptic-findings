@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "NoOne",
+  "risk": "2",
+  "title": "Users should not be allowed to mint more positions than the limit",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/39",
+  "originalIssueId": 17,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/17"
+}
