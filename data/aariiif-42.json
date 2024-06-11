@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "aariiif",
+  "risk": "2",
+  "title": "Integer Overflow in Pool ID Storage *unchecked Addition Can Lead to Incorrect Pool ID in SFPM",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/42",
+  "originalIssueId": 14,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/14"
+}
