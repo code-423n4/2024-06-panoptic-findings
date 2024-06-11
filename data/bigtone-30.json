@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "bigtone",
+  "risk": "2",
+  "title": "Lack of overflow validation allows manipulation of s_poolAssets leading to incorrect totalAssets calculation",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/30",
+  "originalIssueId": 28,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/28"
+}
