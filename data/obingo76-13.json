@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "obingo76",
+  "risk": "2",
+  "title": " Unhandled return value of transferFrom in contracts/CollateralTracker.sol",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/13",
+  "originalIssueId": 45,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/45"
+}
