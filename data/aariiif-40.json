@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "aariiif",
+  "risk": "2",
+  "title": "Inaccurate Premium Accounting in SFPM Due to Incomplete Data Updates in registerTokenTransfer.",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/40",
+  "originalIssueId": 16,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/16"
+}
