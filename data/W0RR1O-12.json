@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "W0RR1O",
+  "risk": "2",
+  "title": "[M-01] Potential Division by Zero or Unintended Behavior Due to Close Asset Values in the `revoke` function",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/12",
+  "originalIssueId": 46,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/46"
+}
