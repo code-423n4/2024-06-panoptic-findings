@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "aariiif",
+  "risk": "2",
+  "title": "Incorrect Assumption in FactoryNFT Can Lead to Reverts During Token URI Retrieval.",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/45",
+  "originalIssueId": 11,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/11"
+}
