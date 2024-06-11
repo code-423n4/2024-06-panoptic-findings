@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " Issue M-02 not correctly fixed since the check is not inclusive ",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/25",
+  "originalIssueId": 33,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/33"
+}
