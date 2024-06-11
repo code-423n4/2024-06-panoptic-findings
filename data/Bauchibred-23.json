@@ -1,0 +1,10 @@
+{
+  "contest": 387,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " getChainName()'s implementation is somewhat broken on the Blast chain.",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2024-06-panoptic-findings/issues/23",
+  "originalIssueId": 35,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-panoptic-validation/issues/35"
+}
